@@ -26,14 +26,14 @@ color: blue;
 
 }
 
-.home{
+
     
-     
-    
-    
+.imagecrop {
+    width: 50%;
+    height: 10px;
 }
+
 .home p {
     position:fixed;
     width: fit-content;
-
 }
