@@ -31,7 +31,7 @@ function includeHTML() {
             const urlParams = new URLSearchParams(window.location.search);
             let page = urlParams.get("page");
             if (!page) {
-                page = defaultPage; 
+                page = defaultPage;
             }
             file = pagesDirectory + page + ".html";
         }
@@ -65,4 +65,3 @@ document.addEventListener("DOMContentLoaded", function (event) {
 ///////////////////
 // OTHER SCRIPTS //
 ///////////////////
-
