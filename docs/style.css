@@ -1,14 +1,13 @@
 /* Remove the standard margin/padding of the html body */
 
 h1 {
-    color:black;
+    color: palevioletred;
     font-size: 30pt;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
-
+    font-family: 
 }
 
 body {
-    background-color: beige;
+    background-color: mistyrose;
    
 }
 
@@ -21,7 +20,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(51, 51, 51);
+    background-color:rgb(240,128,128);
   }
   
   li {
@@ -38,7 +37,7 @@ ul {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: #111;
+    background-color: rosybrown;
   }
 
 .page {
@@ -60,20 +59,32 @@ table, th, td {
     border-collapse: collapse;
 }
     
-.imagecrop img {                /*Imaginärer Bilderrahmen, hier wird die Größe des Bildausschnitts bestimmt*/
-    width: 100%;
-    height: 500px;
-    padding: 50px 150x 50px 100px;
+.image{
+  width: 500px;
+  flex-shrink: 0;
+  height: 300px;
+  overflow:hidden ;
+}
+
+ .image img {
+   scale: 0.55;
+   margin:-515px 0px 0px --676px;
+ }
+ .text{
+   width:48%;
+
+ }
+  .container{
+    display: flex;
+    justify-content: space-between;
+  }
     
-}
 
-#rezept {                   /*#ID des jeweiligen Bild-Tags, mit den Werten für Position und Skalierungsfaktor*/
-    margin-left: -22px;
-}
+.imp {
+  hyphens: auto; 
+	text-align: justify
 
-#einleitung {
-    transform: scale(1.6);
-    margin-left: 143px;
-    margin-top: 103px;
 }
+ 
+
 
