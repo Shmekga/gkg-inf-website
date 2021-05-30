@@ -37,3 +37,9 @@ color: blue;
     position:fixed;
     width: fit-content;
 }
+
+.Getränk2 table{
+    background-color: darkgrey;
+    border-color:black;
+    border-style: solid;
+}
