@@ -46,6 +46,7 @@ color:black;
 }
 
 .footer {
+  background-color: rgb(240,128,128);
 
 }
 
@@ -79,11 +80,8 @@ table, th, td {
     
 
 .imp {
-  margin-left: 200px;
-  margin-right: 200px;
-  margin-top: 100px;
+  margin: 5rem;
 
-  display: flex;
-  align-items: center;
+ 
 
 }

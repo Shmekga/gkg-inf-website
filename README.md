@@ -15,18 +15,18 @@ Auf der linken Seite ist das Menu zu sehen. Home, Rezepte und DIY sollten in Kre
 ### Unterseite 1 (backen&kochen)
 Diese Unterseite fängt mit einem kurzen Text an. Dann folgt ein Bild. Danach sind die Gerichte/ Getränke aufgelistet. Es sind 6 Rezepte, die Getränke sind oder Gerichte für Vegetarier oder Fleischliebhaber. Letzendlich sind die die Rezepte übersichtlich in einer Tabelle dargestellt worden. 
 Skizze mit Beschreibung.
+![Backen&Kochen](screnshots/rez.jpeg)
  
 ### Unterseite 2 (DIY)
 Die Unterseite zeigt DIY Ideen zum selber machen. Als erstes kommt eine kurze Beschreibung. Dann folgt ein Bild zum Nachmachen. Wir haben dann eine Anleitung, um Seife sowie Badebombe selber zu machen, aufgeschrieben. 
+![DIY](screnshots/diy.jpeg)
  
 ### Unterseite 3(Freizeitaktivitäten)
 Diese Unterseite haben wir erst später geplant. Hier haben wir einen kurzen Text, gefolgt von einem Bild zum 1. Thema: Ballsportarten. Dann haben wir Beispiele bzw. Ideen für das Thema aufgeschrieben. Genauso haben wir es zum zweiten Thema: Allgemeine Aktivitäten, gemacht. 
- 
+ ![Freizeit](screnshots/frei.jpeg)
 ### Impressum
- 
-Skizze mit Beschreibung.
- 
-usw...
+![impressun](screnshots/imps.jpg)
+Das Impressum sollte ein Text über unsere Webseite verfügen und zum Schluss stehen noch unsere E-mails.
  
 ## Zeitplan
  
@@ -74,6 +74,7 @@ Diese Unterseite fängt mit einer Deskription an. Dann folgen die Gerichte/ Getr
  
 ### Unterseite 2
 ![DIY](screnshots/diy.jpeg)
+Dieser Seit fängt erst mit ein Text an, was man erwarten kann. Danach folgen zwei Tipps für Zeichnen, dazu noch ein Beispielbild. Nachdem kommt paar tipps was man Häckeln und Stricken kann. Am schluss folgen zwei Kosmetik ideen mit Zutaten und die zubereitung
  
 ### Unterseite 3
 ![Freizeit](screnshots/frei.jpeg)
@@ -81,9 +82,8 @@ Auf dieser Unterseite sieht man ganz oben ein Bild, dass sich fast über die gan
  
 ### Impressum
  
-Screenshot mit Beschreibung.
- 
-usw...
+![Impressung](screnshots/imp.png)
+Man sieht ein Text über die Webseite, gefolgt von Daten, wie man uns erreichen kann.
  
 ## Zusammenfassung
  
