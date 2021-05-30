@@ -101,5 +101,4 @@ Zusammenfassung mit Vergleich zwischen Planung und Umsetzung. Was hat geklappt u
 Meistens konnten wir uns nicht nach unserem Zeitplan treffen. Das hat verschiedene Gründe. Unter anderem hatte eine von uns keine Zeit oder wir mussten für andere Fächer lernen. Ausserdem wollten wir jeden Tag an unserer Webseite arbeiten, aber das hatte doch  nicht funktioniert. Die Skizzen konnten wir relativ gut übertragen. Auf jeder Seite gab es kleine Unterschiede zur Skizze. Wir haben bei der Überstragung gemerkt, dass es anders schöner aussieht oder wir es doch nicht 
 ![brauchen]
 
-es/mastering-markdown
 
