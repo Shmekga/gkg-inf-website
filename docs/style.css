@@ -1,47 +1,23 @@
 /* Remove the standard margin/padding of the html body */
 
 h1 {
-    color: palevioletred;
+    color:black;
     font-size: 30pt;
-    font-family: 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
 }
 
 body {
-    background-color: mistyrose;
+    background-color: blanchedalmond;
    
 }
 
 .menu {
-
+    
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color:rgb(240,128,128);
-  }
-  
-  li {
-    float: left;
-  }
-  
-  li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  /* Change the link color to #111 (black) on hover */
-  li a:hover {
-    background-color: rosybrown;
-  }
-
 .page {
-color:black;
+color: blue;
 
 
 }
@@ -51,19 +27,10 @@ color:black;
 }
 
 
-
-table, th, td {
-    border: 2px solid black;
-    margin: 25px;
-    width: 50%;
-    border-collapse: collapse;
-}
     
-.image{
-  width: 500px;
-  flex-shrink: 0;
-  height: 300px;
-  overflow:hidden ;
+.imagecrop {
+    width: 50%;
+    height: 10px;
 }
 
  .image img {
@@ -88,7 +55,15 @@ table, th, td {
   display: flex;
   align-items: center;
 
+
+.home p {
+    position:fixed;
+    width:fit-content;
+
 }
- 
 
-
+.Getränk2 table{
+    background-color: darkgrey;
+    border-color:black;
+    border-style: solid;
+}
