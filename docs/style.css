@@ -81,8 +81,12 @@ table, th, td {
     
 
 .imp {
-  hyphens: auto; 
-	text-align: justify
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 100px;
+
+  display: flex;
+  align-items: center;
 
 }
  
