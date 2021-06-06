@@ -3,7 +3,7 @@
 h1 {
     color: palevioletred;
     font-size: 30pt;
-    font-family: 
+    font-family: Arial;
 }
 
 body {
@@ -67,7 +67,7 @@ table, th, td {
 
  .image img {
    scale: 0.55;
-   margin:-515px 0px 0px --676px;
+   margin:-515px 0px 0px -676px;
  }
  .text{
    width:48%;
